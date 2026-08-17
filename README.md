@@ -1,3 +1,11 @@
+In 2020 the w3 consortium finally added the prefers-color-scheme media query, that essentially solves the same problem. But I guess I can say I thought of it before it was cool. 
+
+See: https://www.w3.org/TR/2020/WD-mediaqueries-5-20200303/#prefers-color-scheme for the original spec.
+
+- Tamás, 2026.08.17.
+
+---
+
 # X-Prefer-Dark-Theme
 An initiative for universal support of dark themes on the web.
 
